@@ -21,7 +21,7 @@ From the project root folder write the following command to generate the javadoc
 $ cd jtbomberman/
 
 # Generate javadoc
-$ javadoc -d doc/elpuig/ -sourcepath src/ -subpackages net
+$ javadoc -d docs/ -sourcepath src/ -subpackages net
 ```
 
 ## How to compile?
